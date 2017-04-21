@@ -1,0 +1,45 @@
+<svg height="670" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="670" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ base@0.13.0 </tspan>
+<tspan x="10" y="90">  ├── arr-union@3.1.0 </tspan>
+<tspan x="10" y="106">  ├─┬ cache-base@1.0.0 </tspan>
+<tspan x="10" y="122">  │ ├─┬ collection-visit@0.2.3 </tspan>
+<tspan x="10" y="138">  │ │ ├── map-visit@0.1.5 </tspan>
+<tspan x="10" y="154">  │ │ └─┬ object-visit@0.3.4 </tspan>
+<tspan x="10" y="170">  │ │   └── isobject@2.1.0 </tspan>
+<tspan x="10" y="186">  │ ├── get-value@2.0.6 </tspan>
+<tspan x="10" y="202">  │ ├─┬ has-value@0.3.1 </tspan>
+<tspan x="10" y="218">  │ │ ├── has-values@0.1.4 </tspan>
+<tspan x="10" y="234">  │ │ └─┬ isobject@2.1.0 </tspan>
+<tspan x="10" y="250">  │ │   └── isarray@1.0.0 </tspan>
+<tspan x="10" y="266">  │ ├─┬ lazy-cache@2.0.2 </tspan>
+<tspan x="10" y="282">  │ │ └── set-getter@0.1.0 </tspan>
+<tspan x="10" y="298">  │ ├─┬ set-value@0.4.3 </tspan>
+<tspan x="10" y="314">  │ │ ├── extend-shallow@2.0.1 </tspan>
+<tspan x="10" y="330">  │ │ └─┬ is-plain-object@2.0.1 </tspan>
+<tspan x="10" y="346">  │ │   └── isobject@1.0.2 </tspan>
+<tspan x="10" y="362">  │ ├─┬ to-object-path@0.3.0 </tspan>
+<tspan x="10" y="378">  │ │ └─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="394">  │ │   └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="410">  │ ├── union-value@0.2.4 </tspan>
+<tspan x="10" y="426">  │ └── unset-value@0.1.2 </tspan>
+<tspan x="10" y="442">  ├─┬ class-utils@0.3.5 </tspan>
+<tspan x="10" y="458">  │ └─┬ static-extend@0.1.2 </tspan>
+<tspan x="10" y="474">  │   └─┬ object-copy@0.1.0 </tspan>
+<tspan x="10" y="490">  │     └── copy-descriptor@0.1.1 </tspan>
+<tspan x="10" y="506">  ├── component-emitter@1.2.1 </tspan>
+<tspan x="10" y="522">  ├─┬ define-property@0.2.5 </tspan>
+<tspan x="10" y="538">  │ └─┬ is-descriptor@0.1.5 </tspan>
+<tspan x="10" y="554">  │   ├── is-accessor-descriptor@0.1.6 </tspan>
+<tspan x="10" y="570">  │   └── is-data-descriptor@0.1.4 </tspan>
+<tspan x="10" y="586">  ├── isobject@3.0.0 </tspan>
+<tspan x="10" y="602">  ├─┬ mixin-deep@1.2.0 </tspan>
+<tspan x="10" y="618">  │ ├── for-in@1.0.2 </tspan>
+<tspan x="10" y="634">  │ └── is-extendable@0.1.1 </tspan>
+<tspan x="10" y="650">  └── pascalcase@0.1.1</tspan>
+</text>
+</svg>
